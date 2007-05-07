@@ -14,7 +14,7 @@
 # - proper behaviour when msgfmt is missing
 # - support for relative localedir
 
-PACKAGE = wesnoth-descent
+PACKAGE = wesnoth-Descent
 VERSION = @VERSION@
 
 SHELL = /bin/sh
